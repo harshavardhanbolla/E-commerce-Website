@@ -1,0 +1,7 @@
+{
+    "css.validate": false,
+    "stylelint.enable": false,
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  }
